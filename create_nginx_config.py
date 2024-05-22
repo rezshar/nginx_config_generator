@@ -1,4 +1,4 @@
-#WittenbyRezshar
+#WrittenbyRezshar
 import os
 import subprocess
 
